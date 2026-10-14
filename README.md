@@ -59,7 +59,7 @@ customer-churn-prediction/
 ## 👩‍💻 Author
 **Irene**
 - **GitHub:** [@irene120304](https://github.com/irene120304)
-- **LinkedIn:** [linkedin.com/in/irene]([https://linkedin.com](https://www.linkedin.com/in/irene-margareth-0329073b3/))
+- **LinkedIn:** [linkedin.com/in/irene](https://www.linkedin.com/in/irene-margareth-0329073b3/)
 - **Target Role:** Data Scientist | Machine Learning Engineer | Data Analyst
 
 ## 🚀 How to Run
