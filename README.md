@@ -46,6 +46,21 @@ customer-churn-prediction/
 ├── outputs/figures/ # Saved plots & visualizations 
 └── requirements.txt
 ```
+## 📊 Visualizations
+
+### 1. Churn Distribution & Overview
+![Churn Overview](outputs/figures/churn_overview.png)
+
+### 2. Model Performance & ROC Curves
+![Model Comparison](outputs/figures/model_comparison.png)
+
+---
+
+## 👩‍💻 Author
+**Irene**
+- **GitHub:** [@irene120304](https://github.com/irene120304)
+- **LinkedIn:** [linkedin.com/in/irene]([https://linkedin.com](https://www.linkedin.com/in/irene-margareth-0329073b3/))
+- **Target Role:** Data Scientist | Machine Learning Engineer | Data Analyst
 
 ## 🚀 How to Run
 ```bash
